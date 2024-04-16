@@ -16,7 +16,7 @@ body {
 
   ul {
     background-color: #eeeeee;
-    border: purple 5px;
+    border: 5px solid purple;
     padding: auto;
   }
   
