@@ -17,7 +17,8 @@ body {
   ul {
     background-color: #eeeeee;
     border: 5px solid purple;
-    padding: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
   
   .job-title {
