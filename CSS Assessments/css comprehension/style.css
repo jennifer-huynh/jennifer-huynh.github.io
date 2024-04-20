@@ -11,21 +11,21 @@ html {
 }
 
 article {
-  height: 120em;
+  height: 120px;
   background-color: transparent black;
 }
 
 h2 {
-  font-size: 20em;
+  font-size: 20px;
   line-height: 5px;
 }
 
 h2, p {
-  margin: 0;
+  margin: 0px;
 }
 
 p footer {
-  font-size: 15em;
+  font-size: 15px;
   line-height: 5px;
 }
 
@@ -59,8 +59,8 @@ p article {
 }
 
 .card header, .card footer {
-  height: 50em;
-  content: 30em;
-  padding: 10em;
+  height: 50px;
+  content: 30px;
+  padding: 10px;
 }
 
