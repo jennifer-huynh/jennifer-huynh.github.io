@@ -11,12 +11,14 @@ html {
 }
 
 article {
-  height: 120px;
+  /* em */
+  height: 12em;
   background-color: transparent black;
 }
 
 h2 {
-  font-size: 20px;
+  /* em */
+  font-size: 2em;
   line-height: 5px;
 }
 
@@ -25,7 +27,8 @@ h2, p {
 }
 
 p footer {
-  font-size: 15px;
+  /* em */
+  font-size: 1.5em;
   line-height: 5px;
 }
 
@@ -59,6 +62,7 @@ p article {
 }
 
 .card header, .card footer {
-  height: 50px;
+  /* em */
+  height: 5em;
 }
 
