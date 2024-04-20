@@ -17,8 +17,8 @@ body {
   ul {
     background-color: #eeeeee;
     border: 5px solid purple;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
   }
   
   .job-title {
@@ -29,11 +29,8 @@ body {
   a:link, a:visited {
     color: #fb6542;
   }
-
-  a:hover {
-    color: green;
-  }
   
   a:hover {
+    color: green;
     text-decoration: none;
   }
