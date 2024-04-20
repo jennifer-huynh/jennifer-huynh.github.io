@@ -1,0 +1,18 @@
+
+html {
+    font-family: sans-serif;
+  }
+  
+  /* Your CSS below here */
+div {
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    font-size: 18px;
+    background-color: blueviolet;
+    text-decoration-color: black;
+    text-shadow: 2px black;
+    border-radius: 2px;
+    border: 1px solid palevioletred;
+    
+}  
