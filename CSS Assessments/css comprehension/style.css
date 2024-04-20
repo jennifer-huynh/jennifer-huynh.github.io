@@ -60,7 +60,5 @@ p article {
 
 .card header, .card footer {
   height: 50px;
-  content: 30px;
-  padding: 10px;
 }
 
