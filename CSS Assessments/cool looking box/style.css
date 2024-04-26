@@ -5,14 +5,20 @@ html {
   
   /* Your CSS below here */
 div {
-    width: 200px;
-    height: 150px;
-    text-align: center;
-    font-size: 18px;
-    background-color: blueviolet;
-    text-decoration-color: black;
-    text-shadow: 2px black;
-    border-radius: 2px;
-    border: 1px solid palevioletred;
-    
+  width: 200px;
+  height: 150px;
+  text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 18px;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.548);
+
+  border-radius: 2px;
+  border: 2px solid palevioletred; 
+
+  background-color: rgb(167, 109, 221);
+  background-image: linear-gradient(55deg, transparent, rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0.2)); 
 }  
